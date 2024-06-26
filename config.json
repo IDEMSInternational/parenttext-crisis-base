@@ -5,7 +5,7 @@
     },
     "parents": {
         "plh": {
-            "location": "https://github.com/IDEMSInternational/plh-inheritance-test/archive/refs/heads/main.zip"
+            "location": "https://github.com/IDEMSInternational/parenttext-templates/archive/refs/heads/main.zip"
         }
     },
     "flows_outputbasename": "parenttext_all",
