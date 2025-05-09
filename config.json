@@ -1,11 +1,11 @@
 {
     "meta": {
-        "version": "1.0.9",
+        "version": "1.0.10",
         "pipeline_version": "1.0.2"
     },
     "parents": {
         "plh": {
-            "location": "https://github.com/IDEMSInternational/parenttext-templates/archive/refs/tags/v1.0.5.zip"
+            "location": "https://github.com/IDEMSInternational/parenttext-templates/archive/refs/tags/v1.0.6.zip"
         }
     },
     "flows_outputbasename": "parenttext_all",
