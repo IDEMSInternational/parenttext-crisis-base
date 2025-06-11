@@ -6,6 +6,9 @@
     "parents": {
         "plh": {
             "location": "https://github.com/IDEMSInternational/parenttext-templates/archive/refs/tags/v1.0.10.zip"
+        },
+         "survey": {
+            "location": "https://github.com/IDEMSInternational/rapidpro-survey-templates/archive/refs/tags/v1.1.0.zip"
         }
     },
     "flows_outputbasename": "parenttext_all",
@@ -16,7 +19,8 @@
     "sources": {
         "flow_definitions": {
             "parent_sources": [
-                "plh.flow_definitions"
+                "plh.flow_definitions",
+                "survey.flow_definitions"
             ],
             "format": "sheets",
             "subformat": "google_sheets",
